@@ -34,6 +34,15 @@ https://www.youtube.com/watch?v=AqBkUx28rXM
 ## Part C. Make it your own
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
+I tried a multitude of packages but could not get many to work.
+
+Packages tried includes:
+Coloourless,
+OpenCV,
+GM,
+and some facial recognition packages.
+
+Either these packages were depreciated or had issues that required other packages to be installed that couldnt be installed through node.
 
 Node Library: https://www.npmjs.com/package/colourless
 
