@@ -26,12 +26,10 @@ Code was also added for webcam setup. These include default options located in t
 Along with this, functionality on the webpage had to be added. This functionality can be seen at the line containing socket.on('takePicture', function(){ var imageName = new Date().toString().replace...;
 
 
-Video Doorbell:
+Video Doorbell Video:
 
 https://www.youtube.com/watch?v=AqBkUx28rXM
 
-
-**b. Include a video of your working video doorbell**
 
 ## Part C. Make it your own
 
