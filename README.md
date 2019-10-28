@@ -46,6 +46,8 @@ and some facial recognition packages.
 Either these packages were depreciated or had issues that required other packages to be installed that couldnt be installed through node.
 
 
-Given these issues, I called it quits and modified the arduino code instead to take a picture at a random time when pressing the button.
+Given these issues, I called it quits and modified the arduino code instead Made a very low framerate video feed:
+
+
 
 **b. Upload a video of your working modified project**
