@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Matt W. Freed*
 
 ### In This Report
 
@@ -12,6 +12,9 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
+https://www.youtube.com/watch?v=Mi93wV90XF4
+
+
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
@@ -22,6 +25,10 @@ Code was also added for webcam setup. These include default options located in t
 
 Along with this, functionality on the webpage had to be added. This functionality can be seen at the line containing socket.on('takePicture', function(){ var imageName = new Date().toString().replace...;
 
+
+Video Doorbell:
+
+https://www.youtube.com/watch?v=AqBkUx28rXM
 
 
 **b. Include a video of your working video doorbell**
