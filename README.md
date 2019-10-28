@@ -40,6 +40,7 @@ Packages tried includes:
 Coloourless,
 OpenCV,
 GM,
+Canva refused to install,
 and some facial recognition packages.
 
 Either these packages were depreciated or had issues that required other packages to be installed that couldnt be installed through node.
