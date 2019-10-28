@@ -45,6 +45,7 @@ and some facial recognition packages.
 
 Either these packages were depreciated or had issues that required other packages to be installed that couldnt be installed through node.
 
-Node Library: https://www.npmjs.com/package/colourless
+
+Given these issues, I called it quits and modified the arduino code instead to take a picture at a random time when pressing the button.
 
 **b. Upload a video of your working modified project**
