@@ -48,6 +48,4 @@ Either these packages were depreciated or had issues that required other package
 
 Given these issues, I called it quits and modified the arduino code instead Made a very low framerate video feed:
 
-
-
-**b. Upload a video of your working modified project**
+https://www.youtube.com/watch?v=o5HKzkSNUto
