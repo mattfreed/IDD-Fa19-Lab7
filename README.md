@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=AqBkUx28rXM
 I tried a multitude of packages but could not get many to work.
 
 Packages tried includes:
-Coloourless,
+Colourless,
 OpenCV,
 GM,
 Canva refused to install,
