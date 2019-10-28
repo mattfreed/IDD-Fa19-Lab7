@@ -16,6 +16,14 @@
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
+In order to load the webcam module we had to call "var NodeWebcam = require("node-webcam");
+
+Code was also added for webcam setup. These include default options located in the var opts variable and starting up the webcame by calling NodeWebcam.create(opts);.
+
+Along with this, functionality on the webpage had to be added. This functionality can be seen at the line containing socket.on('takePicture', function(){ var imageName = new Date().toString().replace...;
+
+
+
 **b. Include a video of your working video doorbell**
 
 ## Part C. Make it your own
